@@ -37,10 +37,11 @@ A unique social media app that breaks language barriers by enabling real-time tr
 - **Tech Stack**: Laravel, React, Tailwind CSS
 - **Features**: AI-driven translations, user authentication, and scalable architecture
 
-### 2. **[Football Match Predictor](https://github.com/your-project-link)**
-An AI-powered tool that predicts football match outcomes based on historical data.
-- **Tech Stack**: Python (TensorFlow), Laravel for backend integration
-- **Features**: Predictive analytics, interactive dashboards
+### 2. [Système de Détection de Fraude avec l’IA](https://github.com/arielembeya223/fraude-detection)
+Un outil alimenté par l’intelligence artificielle pour détecter les fraudes dans les transactions financières.  
+- **Tech Stack**: Python (scikit-learn, TensorFlow), Laravel pour backend  
+- **Features**: Détection automatique des transactions suspectes, alertes en temps réel, tableaux de bord interactifs
+
 
 ---
 
