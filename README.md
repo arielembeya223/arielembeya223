@@ -37,10 +37,11 @@ A unique social media app that breaks language barriers by enabling real-time tr
 - **Tech Stack**: Laravel, React, Tailwind CSS
 - **Features**: AI-driven translations, user authentication, and scalable architecture
 
-### 2. [Système de Détection de Fraude avec l’IA](https://github.com/arielembeya223/fraude-detection)
-Un outil alimenté par l’intelligence artificielle pour détecter les fraudes dans les transactions financières.  
-- **Tech Stack**: Python (scikit-learn, TensorFlow), Laravel pour backend  
-- **Features**: Détection automatique des transactions suspectes, alertes en temps réel, tableaux de bord interactifs
+### 2. [AI-Powered Fraud Detection System](https://github.com/arielembeya223/fraude-detection)
+An AI-powered tool to detect fraudulent activities in financial transactions.  
+- **Tech Stack**: Python (scikit-learn, TensorFlow), Laravel for backend integration  
+- **Features**: Automatic detection of suspicious transactions, real-time alerts, interactive dashboards
+
 
 
 ---
@@ -51,7 +52,7 @@ I believe in the power of technology to bring people together and make the world
 ---
 
 ## 📫 Let's Connect!
-- **GitHub**: [github.com/arielshongo](https://github.com/arielembeya223/)
+- **GitHub**: [github.com/arielembeya223](https://github.com/arielembeya223/)
 
 Feel free to reach out for collaboration, mentoring, or just to say hi! 🙌
 
